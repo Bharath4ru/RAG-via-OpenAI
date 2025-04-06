@@ -26,8 +26,8 @@ A Streamlit application that combines voice interaction with Retrieval-Augmented
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voice-rag-assistant.git
-   cd voice-rag-assistant
+   git clone https://github.com/Bharath4ru/RAG-via-OpenAI.git
+   cd RAG-via-OpenAI
    ```
 
 2. Install the required dependencies:
@@ -93,31 +93,7 @@ The application follows this process flow:
 3. Query processing via the LlamaIndex query engine
 4. Speech-to-text conversion for voice inputs via OpenAI
 5. Text-to-speech conversion for responses via OpenAI
-
-## 📝 Notes
-
-- The application requires an internet connection to access OpenAI and Google APIs.
-- For optimal voice recording, use a good microphone in a quiet environment.
-- Large PDF files may take longer to process initially.
-
-## 🔮 Future Improvements
-
-- Add support for more document formats (DOCX, TXT, etc.)
-- Implement multi-document querying
-- Add conversation history for follow-up questions
-- Support for multiple languages
-- Optimize for mobile usage
-
 ## 📄 License
 
 [MIT License](LICENSE)
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
