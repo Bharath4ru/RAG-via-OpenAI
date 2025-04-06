@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pygame
+uuid
+openai
+PyMuPDF
+audio-recorder-streamlit
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-faiss
+faiss-cpu
